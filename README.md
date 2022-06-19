@@ -8,17 +8,17 @@
 
 ## 開始使用
 1. 請確認本機已安裝 Node.js 與 npm
-2. 使用終端機，將專案複製至本機
+2. 使用終端機，將專案複製至本機<br />
 `git clone https://github.com/yhcchenn/restaurant_list.git`
-4. 於終端機存取專案資料夾並執行
+4. 於終端機存取專案資料夾並執行<br />
 `cd restaurant_list`
-6. 安裝 nodemon 模組
+6. 安裝 nodemon 模組<br />
 `npm i nodemon`
-8. 啟動伺服器
+8. 啟動伺服器<br />
 `npm run dev`
-10. 執行成功將呈現此訊息
+10. 執行成功將呈現此訊息<br />
 `Express is listening on localhost:3000`
-12. 於瀏覽器進入以下網址，瀏覽網頁
+12. 於瀏覽器進入以下網址，瀏覽網頁<br />
 <http://localhost:3000>
 
 
